@@ -20,7 +20,7 @@ function Product({ id, title, author, image, price, rating }) {
       </div>
       </div>
       <img src={image} alt="Book Cover"/>
-      <button>Add To Cart</button>
+      <button className='product__button'>Add To Cart</button>
       </div>
     
   );
