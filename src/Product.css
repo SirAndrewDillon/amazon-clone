@@ -26,7 +26,7 @@
     display: flex;
 }
 
-.product > img {
+.product>img {
     max-height: 200px;
     width: 100%;
     object-fit: contain;
@@ -38,5 +38,5 @@
     font-weight: 500;
     width: 90px;
     border: 2px solid;
-    border-color: #a88734  #9c7e31 #846a29;
+    border-color: #a88734 #9c7e31 #846a29;
 }
