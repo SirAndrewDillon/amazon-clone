@@ -1,24 +1,5 @@
 export const initialState = {
-  basket: [
-    {
-      id: "ayo7nv5t5vy",
-      title:
-        "Air Jordan 1 Chicago Mid White Heel Toe Black Red Retro 554724-173",
-      price: 146.99,
-      rating: 5,
-      image:
-        "https://images.restocks.eu/products/554275-173%20-%20554725-173/air-jordan-1-mid-chicago-2020-gs-1-1000.png",
-    },
-    {
-      id: "ayo7nv5t5vy",
-      title:
-        "Air Jordan 1 Chicago Mid White Heel Toe Black Red Retro 554724-173",
-      price: 146.99,
-      rating: 5,
-      image:
-        "https://images.restocks.eu/products/554275-173%20-%20554725-173/air-jordan-1-mid-chicago-2020-gs-1-1000.png",
-    },
-  ],
+  basket: [],
   user: null,
 };
 
