@@ -1,3 +1,8 @@
+# Live Site
+[Amazon Clone Website](https://clone-92b5a.web.app/)
+
+![Site Example] (amazonClone.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
