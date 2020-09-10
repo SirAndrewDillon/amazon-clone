@@ -1,8 +1,7 @@
 # Live Site
 [Amazon Clone Website](https://clone-92b5a.web.app/)
 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon" />
+ ![](amazonClone.gif) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
